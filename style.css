@@ -31,3 +31,7 @@
   background-color: #EAEDF0;
   border: 1px solid red;
 }
+.container {
+  overflow: hidden;
+  background-color: #EAEDF0;
+}
