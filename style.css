@@ -9,6 +9,8 @@
 }
 .sidebar {
   height: 300px;
+  float: left;
+  width: 200px; 
   background-color: #F09A9D;    /* Red */
 }
 .content {
