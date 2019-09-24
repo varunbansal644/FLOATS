@@ -21,3 +21,7 @@
   height: 200px;
   background-color: #D6E9FE;    /* Light blue */
 }
+.page {
+  width: 900px;
+  margin: 0 auto;
+}
